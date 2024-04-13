@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b77fa0d.css",
+    "main.js": "/static/js/main.5e8d07d9.js",
+    "static/js/453.8aa87c5d.chunk.js": "/static/js/453.8aa87c5d.chunk.js",
+    "static/media/Logo.svg": "/static/media/Logo.fe39c95446f6a182927c62a70f726014.svg",
+    "static/media/view-hand-holding-bitcoin 1.png": "/static/media/view-hand-holding-bitcoin 1.fc6c99f8b4e4f9bc9c2e.png",
+    "static/media/Group 47281.png": "/static/media/Group 47281.9416e966e1ab53e97695.png",
+    "static/media/cardano-blockchain 1.jpg": "/static/media/cardano-blockchain 1.83625abd63da22f1fbdb.jpg",
+    "static/media/footer.png": "/static/media/footer.a55cf8bee9b73bcbb416.png",
+    "index.html": "/index.html",
+    "static/media/Vector 2.svg": "/static/media/Vector 2.edce1770057402c9963bd03d50e06240.svg",
+    "main.3b77fa0d.css.map": "/static/css/main.3b77fa0d.css.map",
+    "main.5e8d07d9.js.map": "/static/js/main.5e8d07d9.js.map",
+    "453.8aa87c5d.chunk.js.map": "/static/js/453.8aa87c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b77fa0d.css",
+    "static/js/main.5e8d07d9.js"
+  ]
+}
