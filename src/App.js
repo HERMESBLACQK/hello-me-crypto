@@ -21,7 +21,7 @@ function App() {
 < >
 <Header />
   <div className="banner-img">
-  <p className=" p-2 bg-white text-center text-black rounded-2xl w-[13%] m-auto">Crypto Exchange</p>
+  <p className=" p-2 bg-white text-center text-sm text-black rounded-2xl w-[13%] m-auto">Crypto Exchange</p>
 
   </div>
 <div className="banner  text-center pt-6 pb-16 text-white ">
@@ -34,7 +34,7 @@ function App() {
 <div className=" m-auto text-center w-4/12 underline-box">
 <img src={bottomLine} alt="" className='m-auto ' width={380}/>
 </div>
-<button className=' p-1 px-2 my-8 bg-white text-black font-medium flex m-auto items-center rounded-2xl'>Get Started <span><img src={cryptoSymbol} alt="Crypto" width={40} /></span></button>
+<button className=' p-1 px-2 my-8 bg-white text-black font-medium flex m-auto items-center rounded-2xl hover:bg-[#195399] hover:text-white btn-h'>Get Started <span><img src={cryptoSymbol} alt="Crypto" width={40} /></span></button>
 </div>
 
 
