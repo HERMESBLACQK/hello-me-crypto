@@ -1,8 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+  background-color: black;
+  font-family: 'Clash Grotesk', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,3 +17,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-h{
+  transition: .5s;
+}
+.banner{
+  background-image: url(./assets/Group\ 47281.png);
+  background-position: inherit;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.underline-box{
+  margin-right: 330px;
+  margin-top: -15px;
+}
+
+.banner-footer{
+  background-image: url(./assets/footer.png);
+}
+
+
+
+
+
+
+
