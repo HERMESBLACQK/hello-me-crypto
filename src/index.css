@@ -23,16 +23,20 @@ code {
 .banner{
   background-image: url(./assets/Group\ 47281.png);
   background-position: inherit;
-  background-size: contain;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 .underline-box{
-  margin-right: 330px;
-  margin-top: -15px;
+  margin-right: 415px;
+  margin-top: -25px;
 }
 
 .banner-footer{
   background-image: url(./assets/footer.png);
+}
+.About-banner{
+  background: linear-gradient(181.91deg, #121212 89.35%, #195399 1.61%);
+  
 }
 
 
