@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 // import './index.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -30,7 +31,11 @@ const Home = () => {
 <div className=" m-auto text-center w-4/12 underline-box">
 <img src={bottomLine} alt="" className='m-auto ' width={380}/>
 </div>
-<button className=' p-1 px-2 my-8 bg-white text-black font-medium flex m-auto items-center rounded-2xl hover:bg-[#195399] hover:text-white btn-h'>Get Started <span><img src={cryptoSymbol} alt="Crypto" width={40} /></span></button>
+<Link to="/about">
+      <button className='p-1 px-2 my-8 bg-white text-black font-medium flex m-auto items-center rounded-2xl hover:bg-[#195399] hover:text-white btn-h'>
+        Get Started <span><img src={cryptoSymbol} alt="Crypto" width={40} /></span>
+      </button>
+    </Link>
 </div>
 
 

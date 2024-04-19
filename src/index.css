@@ -35,7 +35,7 @@ code {
   background-image: url(./assets/footer.png);
 }
 .About-banner{
-  background: linear-gradient(181.91deg, #121212 89.35%, #195399 1.61%);
+  background-image: linear-gradient(#121212, #195399);
   
 }
 

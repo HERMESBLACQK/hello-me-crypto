@@ -7,7 +7,7 @@ import logoImage from "../assets/Logo.svg";
 const Header = () => {
           return ( 
                     <>
-                    <div className=" mb-6 flex justify-between px-8 py-4">
+                    <div className=" mb-4 flex justify-between px-8 py-4">
                               <div className=" flex justify-between w-[65%]">
                               <div className=" w-[200px]">
                                         <img src={logoImage} alt="Hello Money Logo" />
